@@ -450,6 +450,13 @@ span{
         height: 300px;
         width: 240px;
     }
+
+   .sign-in p:nth-child(2){
+       font-size:12px;
+    }
+    .orders p:nth-child(2){
+        font-size:12px;
+     }
   }
 
   @media screen and (max-width: 500px) {
