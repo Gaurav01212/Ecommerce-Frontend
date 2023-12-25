@@ -41,7 +41,7 @@ nav{
     height: 40px;
     width: 100%;
     
-    background-image: url(./img/shopping-logo.jpg);
+    background-image: url(shopping-logo.jpg);
     background-size: cover;
     background-position:center ;
     
@@ -233,7 +233,7 @@ a{
 .hero-section{
     height: 500px;
     width: 100%;
-    background: url('img/shoppingLogo4.jpg');
+    background: url('shoppingLogo4.jpg');
 
     background-size: cover;
     display: flex;
@@ -303,51 +303,51 @@ a{
 .img-container{
     height: 75%;
     width: 85%;
-    background-image: url("img/shopping-mages/computer.avif");
+    background-image: url("computer.avif");
    
 }
 .box2 .img-container{
-    background-image: url('./img/shopping-mages/gpu.jpg');
+    background-image: url('gpu.jpg');
     background-size: cover;
 }
 .box3 .img-container{
-    background-image: url('./img/shopping-mages/ram.jpg');
+    background-image: url('ram.jpg');
     background-size: cover;
 }
 .box4 .img-container{
-    background-image: url('./img/shopping-mages/storage.jpg');
+    background-image: url('storage.jpg');
     background-size: cover;
 }
 .box5 .img-container{
-    background-image: url('./img/shopping-mages/jacket.jpg');
+    background-image: url('jacket.jpg');
     background-size: cover;
 }
 .box6 .img-container{
-    background-image: url('./img/shopping-mages/shirt.jpg');
+    background-image: url('shirt.jpg');
     background-size: cover;
 }
 .box7 .img-container{
-    background-image: url('./img/shopping-mages/saree.jpg');
+    background-image: url('saree.jpg');
     background-size: cover;
 }
 .box8 .img-container{
-    background-image: url('./img/shopping-mages/jwellery.jpg');
+    background-image: url('jwellery.jpg');
     background-size: cover;
 }
 .box9 .img-container{
-    background-image: url('./img/shopping-mages/vegetables.jpg');
+    background-image: url('vegetables.jpg');
     background-size: cover;
 }
 .box10 .img-container{
-    background-image: url('./img/shopping-mages/fruits.jpg');
+    background-image: url('fruits.jpg');
     background-size: cover;
 }
 .box11 .img-container{
-    background-image: url('./img/shopping-mages/medicine.jpg');
+    background-image: url('medicine.jpg');
     background-size: cover;
 }
 .box12 .img-container{
-    background-image: url('./img/shopping-mages/electornics.jpg');
+    background-image: url('electornics.jpg');
     background-size: cover;
 }
 
@@ -412,7 +412,7 @@ footer{
 .footer-logos .logo{
     height: 110%;
     width: 90px;
-    background-image: url(./img/shopping-logo.jpg);
+    background-image: url(shopping-logo.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: -30px;
