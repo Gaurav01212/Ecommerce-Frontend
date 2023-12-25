@@ -446,6 +446,10 @@ span{
         font-size:0.8rem;
        height: 50px;
     }
+  .box{
+        height: 300px;
+        width: 240px;
+    }
   }
 
   @media screen and (max-width: 500px) {
