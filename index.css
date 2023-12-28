@@ -507,12 +507,14 @@ span{
         display:none !important;
     }
     .search{
-        width: 85%  !important;
-        margin-left: 30px;
+        width: 95%  !important;
+        margin-left: 20px !important;
+        
         
     }
     .search input{
         font-size: 0.7rem;
+      
        
     }
     .search select{
@@ -523,6 +525,10 @@ span{
     nav{
         justify-content:space-evenly ;
         align-items: center ;
+    }
+    .cart{
+        margin-right: 6px;
+
     }
     
   }
