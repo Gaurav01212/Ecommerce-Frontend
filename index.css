@@ -286,7 +286,17 @@ a{
     flex-direction: column;
     margin-top: 20px;
     border-radius: 6px;
+    transition: all ease-in-out 0.6s;
+   
     
+
+}
+.box:hover{
+    height: 370px;
+    width: 310px;
+    box-shadow: 5px 5px rgb(146, 136, 136);
+    
+
 
 }
 .top-section{
